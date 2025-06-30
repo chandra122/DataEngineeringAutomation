@@ -1,0 +1,9 @@
+id,name,price,category,timestamp,location
+1,Denver Broncos Jersey,89.99,Sports,2024-01-01,Denver
+2,Rocky Mountain Coffee,12.50,Beverages,2024-01-01,Denver
+3,Colorado Ski Pass,299.99,Recreation,2024-01-02,Denver
+4,Denver Art Museum Ticket,18.00,Culture,2024-01-02,Denver
+5,Colorado Craft Beer,8.99,Beverages,2024-01-03,Denver
+6,Red Rocks Concert Ticket,75.00,Entertainment,2024-01-03,Denver
+7,Denver Zoo Admission,22.00,Family,2024-01-04,Denver
+8,Colorado Rockies Hat,24.99,Sports,2024-01-04,Denver 
